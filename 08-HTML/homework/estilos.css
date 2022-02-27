@@ -1,0 +1,19 @@
+html{
+
+    background-color: rgb(36, 48, 48);
+}
+h1{
+ color:lightseagreen;
+}
+
+#thirdDiv{ 
+    
+    background-color: lime;
+    width: 500;
+    height: 200;
+}
+#spanId{
+
+    font-size: 18px;
+}
+
